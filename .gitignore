@@ -11,3 +11,5 @@
 *.iml
 
 .DS_Store
+
+cadsr/ontologies/CADSR-VS.owl
